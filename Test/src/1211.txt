@@ -1,0 +1,14 @@
+Mã số	 	 Họ và tên	 	 Ngày sinh	 	 Cư trú 
+
+ms001		A		21/01/1998		hồ chí minh
+
+ms002		A		21/01/1998		hồ chí minh
+
+ms003		A		21/01/1998		hồ chí minh
+
+ms004		A		21/01/1998		hồ chí minh
+
+ms005		A		21/01/1998		hồ chí minh
+
+ms006		A		21/01/1998		hồ chí minh
+

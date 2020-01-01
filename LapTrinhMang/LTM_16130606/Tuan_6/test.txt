@@ -1,4 +1,0 @@
-ID	NAME	Grade
-123	Vương Á Đồng	7.0
-124	Triệu Khải	9.0
-125	Đại Vũ	8.0

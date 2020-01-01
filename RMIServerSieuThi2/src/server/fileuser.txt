@@ -1,0 +1,4 @@
+user	pass
+thuan	123
+thuan123	456
+thuan456	789
