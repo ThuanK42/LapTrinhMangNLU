@@ -1,6 +1,4 @@
-import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
@@ -18,8 +16,6 @@ public class test1212 {
 	}
 
 	public static void createFirstLine(PrintWriter pw, nhanvien nv) {
-		// pw.append("Mã số\t \t").append("Họ và tên\t \t").append("Ngày sinh\t
-		// \t").append("Cư trú \n");
 		pw.println(nv.getMs() + "\t\t" + nv.getHoten() + "\t\t" + nv.getNgaysinh() + "\t\t" + nv.getCutru() + "\n");
 
 	}
