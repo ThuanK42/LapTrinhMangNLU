@@ -104,6 +104,7 @@ public class UserDao extends UnicastRemoteObject implements IUser {
 			dos = new DataOutputStream(new FileOutputStream(file));
 			dos.writeInt(listData.size());
 			for (TreEm treEm : listData) {
+				
 				dos.writeUTF(treEm.getMs());
 				dos.writeUTF(treEm.getTen());
 				String ngaySinh = treEm.getNgaySinh().getNgay() + "/" + treEm.getNgaySinh().getThang() + "/"
@@ -147,6 +148,7 @@ public class UserDao extends UnicastRemoteObject implements IUser {
 //	}
 
 	public String uploadAnh(String src, String dest) throws IOException {
+		
 		File fileNguon = new File(src);
 		File fileDich = new File(dest);
 		BufferedInputStream bis = null;

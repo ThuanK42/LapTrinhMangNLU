@@ -1,0 +1,6 @@
+Ten	Mat khau	So tai khoan	So tien
+admin	123	1234	1231212.21
+thuank42	123	1111	111111.12
+thuan	123	4567	323232.2
+HuyenLe	123	1357	32423.324
+MyTrang	2103	1919	32423.23

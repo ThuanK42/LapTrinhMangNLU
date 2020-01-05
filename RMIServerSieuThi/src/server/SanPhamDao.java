@@ -32,7 +32,7 @@ public class SanPhamDao extends UnicastRemoteObject implements ISanPham {
 		// TODO Auto-generated constructor stub
 	}
 
-	public int addProduct(int id, String name, int soluong, int giaban) {
+	public int addProduct(int id, String name, int soluong, int giaban)throws RemoteException {
 		int i = 0;
 		try {
 

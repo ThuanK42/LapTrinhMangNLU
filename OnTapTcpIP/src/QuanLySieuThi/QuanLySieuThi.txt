@@ -1,0 +1,5 @@
+idsp 	 ten san pham 	 so luong 	 gia ban
+101	xiaomi2	121	7200000
+102	xiaomi3	121	1200000
+103	xiaomi4	121	2200000
+104	xiaomi5	121	3200000
